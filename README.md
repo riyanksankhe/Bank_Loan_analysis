@@ -106,10 +106,10 @@ The revelation of these primary loan purposes provides valuable insights into co
 3. To highlight key performance indicators (KPIs) related to the bank's lending activities and financial health.
 4. To provide an accessible and user-friendly tool for decision-makers to assess risk exposure, identify opportunities, and make data-driven decisions.
 
-*Below is the link to the Power BI File and the Screenshot of the Dashboard respectively*
+*Below is the link to the Power BI File and the Screenshot of the Power BI Dashboard respectively*
 
+*Link to Power BI file:*
+*[](project.pbix)*
 
-*[Link to Power BI file](project.pbix)*
-
-
+*Screenshot of Power BI Dashboard:*
 ![Screenshot (44)](https://github.com/riyanksankhe/Bank_Loan_analysis/assets/138203213/714687cb-5c87-4fea-a52f-4e82e9ebf7cd)
