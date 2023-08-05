@@ -5,6 +5,14 @@
 **Description:**
 This project showcases an interactive dashboard built using Power BI that provides in-depth insights into bank loan data. The dataset used in this project consists of two Excel files, Finance_1.xlsx, and Finance_2.xlsx, which were obtained from the data.gov platform. The data underwent a rigorous cleaning process, including handling data type conversions, resolving errors, eliminating null values, and other necessary data cleaning procedures. Afterwards, the cleaned data was uploaded to Power BI Desktop to create a comprehensive and user-friendly dashboard.
 
+
+**Aim of the project:**
+1. To present a comprehensive and visually engaging dashboard that enables stakeholders to gain insights into the bank's loan portfolio.
+2. To facilitate the exploration and understanding of loan trends, repayment patterns, and customer behaviour over time.
+3. To highlight key performance indicators (KPIs) related to the bank's lending activities and financial health.
+4. To provide an accessible and user-friendly tool for decision-makers to assess risk exposure, identify opportunities, and make data-driven decisions.
+
+
 **Dashboard Features:**
 
 1. **Total Customers:** This KPI showcases the total number of customers in the bank's loan portfolio, enabling quick assessment of customer volume.
@@ -24,6 +32,8 @@ This project showcases an interactive dashboard built using Power BI that provid
 8. **Grade-wise Revolving Balance:** The dashboard features a visual representation of the revolving balance categorized by loan grades, assisting in assessing risk exposure.
 
 9. **Loans by States:** This visual allows users to explore the distribution of loans across different states, providing insights into regional lending patterns.
+
+---
 
 **Findings:**
 
@@ -100,16 +110,12 @@ The revelation of these primary loan purposes provides valuable insights into co
 - Power BI Desktop: Utilized to create the interactive dashboard.
 - GitHub: Employed for version control and project sharing.
 
-**Aim of the project:**
-1. To present a comprehensive and visually engaging dashboard that enables stakeholders to gain insights into the bank's loan portfolio.
-2. To facilitate the exploration and understanding of loan trends, repayment patterns, and customer behaviour over time.
-3. To highlight key performance indicators (KPIs) related to the bank's lending activities and financial health.
-4. To provide an accessible and user-friendly tool for decision-makers to assess risk exposure, identify opportunities, and make data-driven decisions.
+---
 
 *Below is the link to the Power BI File and the Screenshot of the Power BI Dashboard respectively*
 
 *Link to Power BI file:*
-*[](project.pbix)*
+*[Here](project.pbix)*
 
 *Screenshot of Power BI Dashboard:*
 ![Screenshot (44)](https://github.com/riyanksankhe/Bank_Loan_analysis/assets/138203213/714687cb-5c87-4fea-a52f-4e82e9ebf7cd)
