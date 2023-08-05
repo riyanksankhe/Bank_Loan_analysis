@@ -107,8 +107,9 @@ The revelation of these primary loan purposes provides valuable insights into co
 4. To provide an accessible and user-friendly tool for decision-makers to assess risk exposure, identify opportunities, and make data-driven decisions.
 
 *Below is the link to the Power BI File and the Screenshot of the Dashboard respectively*
-[Power BI](PK)
-[powerbi](project.pbix)
-[title](https://github.com/riyanksankhe/Bank_Loan_analysis/blob/main/project.pbix)
+
+
+*[Link to Power BI file](project.pbix)*
+
 
 ![Screenshot (44)](https://github.com/riyanksankhe/Bank_Loan_analysis/assets/138203213/714687cb-5c87-4fea-a52f-4e82e9ebf7cd)
