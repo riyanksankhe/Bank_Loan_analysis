@@ -39,7 +39,7 @@ This project showcases an interactive dashboard built using Power BI that provid
 
 ![Screenshot (47)](https://github.com/riyanksankhe/Bank_Loan_analysis/assets/138203213/d1ff7691-a692-4846-861a-90add79dee45)
 
-The loan balance exhibits a noticeable surge during the period spanning from 2007 to 2011, signifying a notable escalation in loan activity and the bank's exposure to lending transactions over the course of these years. This evident growth trend in the loan balance is indicative of the increasing demand for credit facilities and financial products offered by the institution, which is likely driven by various economic and market factors influencing borrowing behaviours during that specific timeframe.
+The loan balance exhibited a noticeable surge during the period spanning from 2007 to 2011, signifying a notable escalation in loan activity and the bank's exposure to lending transactions over the course of these years. This evident growth trend in the loan balance is indicative of the increasing demand for credit facilities and financial products offered by the institution, which is likely driven by various economic and market factors influencing borrowing behaviours during that specific timeframe.
 
 ---
 
